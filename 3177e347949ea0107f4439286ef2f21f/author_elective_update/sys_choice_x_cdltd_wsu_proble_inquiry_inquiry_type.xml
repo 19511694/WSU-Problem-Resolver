@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="inquiry_type" table="x_cdltd_wsu_proble_inquiry" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enrollment</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sequence>0</sequence>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a3ecc9f94dea0107f4439286ef2f2c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:24</sys_updated_on>
+            <value>enrollment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fee Records</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sequence>1</sequence>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca3ecc9f94dea0107f4439286ef2f2c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:24</sys_updated_on>
+            <value>fee records</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Course Records</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sequence>2</sequence>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>863ecc9f94dea0107f4439286ef2f2c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:24</sys_updated_on>
+            <value>course records</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Graduation</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sequence>3</sequence>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>423ecc9f94dea0107f4439286ef2f2c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:25</sys_updated_on>
+            <value>graduation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vuws</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sequence>4</sequence>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e3ecc9f94dea0107f4439286ef2f2c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:25</sys_updated_on>
+            <value>vuws</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Update Details</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sequence>5</sequence>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c63ecc9f94dea0107f4439286ef2f2ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:25</sys_updated_on>
+            <value>update details</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sequence>6</sequence>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>823ecc9f94dea0107f4439286ef2f2cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:25</sys_updated_on>
+            <value>others</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>inquiry_type</element>
+            <name>x_cdltd_wsu_proble_inquiry</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Abhinav</sys_created_by>
+            <sys_created_on>2021-02-18 03:04:24</sys_created_on>
+            <sys_id>c23ecc9f94dea0107f4439286ef2f2c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>inquiry_type</sys_name>
+            <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_wsu_proble_inquiry_inquiry_type</sys_update_name>
+            <sys_updated_by>Abhinav</sys_updated_by>
+            <sys_updated_on>2021-02-18 03:04:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

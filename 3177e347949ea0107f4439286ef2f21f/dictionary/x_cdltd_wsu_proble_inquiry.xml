@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Inquiry" max_length="40" name="x_cdltd_wsu_proble_inquiry" type="collection">
-        <element label="Inquiry Type" mandatory="true" max_length="10" name="inquiry_type" type="string"/>
+    <element audit="true" extends="task" label="Inquiry" max_length="40" name="x_cdltd_wsu_proble_inquiry" type="collection">
+        <element choice="1" label="Inquiry Type" mandatory="true" max_length="10" name="inquiry_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Enrollment" sequence="0" value="enrollment"/>
+                <element inactive_on_update="false" label="Fee Records" sequence="1" value="fee records"/>
+                <element inactive_on_update="false" label="Course Records" sequence="2" value="course records"/>
+                <element inactive_on_update="false" label="Graduation" sequence="3" value="graduation"/>
+                <element inactive_on_update="false" label="Vuws" sequence="4" value="vuws"/>
+                <element inactive_on_update="false" label="Update Details" sequence="5" value="update details"/>
+                <element inactive_on_update="false" label="Others" sequence="6" value="others"/>
+            </choice>
+        </element>
         <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="staff" reference="x_cdltd_wsu_proble_staff" type="reference"/>
         <element attributes="encode_utf8=false" label="Student" max_length="32" name="student" reference="x_cdltd_wsu_proble_student" type="reference"/>
     </element>

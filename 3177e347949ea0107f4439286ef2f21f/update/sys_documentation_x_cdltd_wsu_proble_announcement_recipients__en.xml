@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Announcement Recipients" language="en" table="x_cdltd_wsu_proble_announcement_recipients">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Announcement Recipients</label>
+            <language>en</language>
+            <name>x_cdltd_wsu_proble_announcement_recipients</name>
+            <plural>Announcement Recipients</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Shrey</sys_created_by>
+            <sys_created_on>2021-02-18 04:25:53</sys_created_on>
+            <sys_id>efd060db9412e0107f4439286ef2f2fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Announcement Recipients</sys_name>
+            <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_wsu_proble_announcement_recipients__en</sys_update_name>
+            <sys_updated_by>Shrey</sys_updated_by>
+            <sys_updated_on>2021-02-18 04:25:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

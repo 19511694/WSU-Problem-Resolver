@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_wsu_proble.announcement_user" name="x_cdltd_wsu_proble.announcement_user">35a9d0979412e0107f4439286ef2f2d6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Shrey</sys_created_by>
+        <sys_created_on>2021-02-18 03:54:22</sys_created_on>
+        <sys_id>39a994979412e0107f4439286ef2f247</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>35a9d0979412e0107f4439286ef2f2d6</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_39a994979412e0107f4439286ef2f247</sys_update_name>
+        <sys_updated_by>Shrey</sys_updated_by>
+        <sys_updated_on>2021-02-18 03:54:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
