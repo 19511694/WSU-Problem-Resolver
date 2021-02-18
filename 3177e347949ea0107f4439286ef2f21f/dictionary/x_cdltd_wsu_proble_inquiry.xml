@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Inquiry" max_length="40" name="x_cdltd_wsu_proble_inquiry" type="collection">
+    <element audit="true" extends="task" label="Inquiry" max_length="40" name="x_cdltd_wsu_proble_inquiry" sizeclass="2" type="collection">
         <element choice="1" label="Inquiry Type" mandatory="true" max_length="10" name="inquiry_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Enrollment" sequence="0" value="enrollment"/>

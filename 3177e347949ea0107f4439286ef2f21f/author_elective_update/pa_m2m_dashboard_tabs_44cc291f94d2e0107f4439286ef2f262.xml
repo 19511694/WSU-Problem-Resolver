@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="catalog_inquiry_catalogue">96c9a59b94d2e0107f4439286ef2f2bd</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 09:57:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44cc291f94d2e0107f4439286ef2f262</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>96c9a59b94d2e0107f4439286ef2f2bd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_44cc291f94d2e0107f4439286ef2f262</sys_update_name>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 09:57:26</sys_updated_on>
+        <tab display_value="catalog_inquiry_cata - New Tab 2">c8cc651f94d2e0107f4439286ef2f2fe</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</application>
+        <file_path/>
+        <instance_id>533fe1b91b52a0d0d676c99f034bcbac</instance_id>
+        <instance_name>adf-feb-440-dev-018</instance_name>
+        <name>pa_m2m_dashboard_tabs_44cc291f94d2e0107f4439286ef2f262</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="catalog_inquiry_catalogue">96c9a59b94d2e0107f4439286ef2f2bd</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>Abhinav</sys_created_by><sys_created_on>2021-02-18 09:57:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>44cc291f94d2e0107f4439286ef2f262</sys_id><sys_mod_count>0</sys_mod_count><sys_name>96c9a59b94d2e0107f4439286ef2f2bd</sys_name><sys_overrides/><sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package><sys_policy/><sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_44cc291f94d2e0107f4439286ef2f262</sys_update_name><sys_updated_by>Abhinav</sys_updated_by><sys_updated_on>2021-02-18 09:57:26</sys_updated_on><tab display_value="catalog_inquiry_cata - New Tab 2">c8cc651f94d2e0107f4439286ef2f2fe</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>196421087</payload_hash>
+        <record_name>96c9a59b94d2e0107f4439286ef2f2bd</record_name>
+        <reverted_from/>
+        <source>364bc05f94dea0107f4439286ef2f2f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 09:57:26</sys_created_on>
+        <sys_id>40cc291f94d2e0107f4439286ef2f264</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b492a80c0000001</sys_recorded_at>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 09:57:26</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>88cc291f97d2e010a8885f9d434c7263</update_guid>
+        <update_guid_history>88cc291f97d2e010a8885f9d434c7263:196421087</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="catalog_inquiry_catalogue">cdcca51f94d2e0107f4439286ef2f2f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 09:57:29</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>17c7f364d2ee440f847cb84e6c514791</sys_id>
+        <sys_metadata>44cc291f94d2e0107f4439286ef2f262</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>96c9a59b94d2e0107f4439286ef2f2bd</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_parent display_value="catalog_inquiry_catalogue">96c9a59b94d2e0107f4439286ef2f2bd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_scope_delete display_value="">04c547d5e25243ec8023abe1716a5b91</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_44cc291f94d2e0107f4439286ef2f262</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_44cc291f94d2e0107f4439286ef2f262">40cc291f94d2e0107f4439286ef2f264</sys_update_version>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 09:57:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

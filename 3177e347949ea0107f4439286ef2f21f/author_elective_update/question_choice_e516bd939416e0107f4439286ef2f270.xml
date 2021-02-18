@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="What is the nature of your Inquiry?">3a4aa4939452e0107f4439286ef2f27d</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 10:39:25</sys_created_on>
+        <sys_id>e516bd939416e0107f4439286ef2f270</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Enroll</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_update_name>question_choice_e516bd939416e0107f4439286ef2f270</sys_update_name>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 10:39:25</sys_updated_on>
+        <text>Enroll</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=e516bd939416e0107f4439286ef2f270"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>e516bd939416e0107f4439286ef2f270</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 10:39:25</sys_created_on>
+        <sys_id>5756bd939416e0107f4439286ef2f2c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 10:39:25</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>e516bd939416e0107f4439286ef2f270</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 10:39:25</sys_created_on>
+        <sys_id>df56bd939416e0107f4439286ef2f2c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 10:39:25</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</application>
+        <file_path/>
+        <instance_id>533fe1b91b52a0d0d676c99f034bcbac</instance_id>
+        <instance_name>adf-feb-440-dev-018</instance_name>
+        <name>question_choice_e516bd939416e0107f4439286ef2f270</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><misc>0</misc><order>100</order><question display_value="What is the nature of your Inquiry?">3a4aa4939452e0107f4439286ef2f27d</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>Abhinav</sys_created_by><sys_created_on>2021-02-18 10:39:25</sys_created_on><sys_id>e516bd939416e0107f4439286ef2f270</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Enroll</sys_name><sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package><sys_policy/><sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope><sys_update_name>question_choice_e516bd939416e0107f4439286ef2f270</sys_update_name><sys_updated_by>Abhinav</sys_updated_by><sys_updated_on>2021-02-18 10:39:25</sys_updated_on><text>Enroll</text><value>1</value></question_choice><fx_price action="delete_multiple" query="id=e516bd939416e0107f4439286ef2f270"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>e516bd939416e0107f4439286ef2f270</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Abhinav</sys_created_by><sys_created_on>2021-02-18 10:39:25</sys_created_on><sys_id>5756bd939416e0107f4439286ef2f2c9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Abhinav</sys_updated_by><sys_updated_on>2021-02-18 10:39:25</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>e516bd939416e0107f4439286ef2f270</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Abhinav</sys_created_by><sys_created_on>2021-02-18 10:39:25</sys_created_on><sys_id>df56bd939416e0107f4439286ef2f2c7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Abhinav</sys_updated_by><sys_updated_on>2021-02-18 10:39:25</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>876860351</payload_hash>
+        <record_name>Enroll</record_name>
+        <reverted_from/>
+        <source>364bc05f94dea0107f4439286ef2f2f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 10:39:26</sys_created_on>
+        <sys_id>5756bd939416e0107f4439286ef2f2cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b4b91b410000001</sys_recorded_at>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 10:39:26</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>9f56bd932f16e01050be43495d3ce9ca</update_guid>
+        <update_guid_history>9f56bd932f16e01050be43495d3ce9ca:876860351</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Enroll">883779d39416e0107f4439286ef2f296</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abhinav</sys_created_by>
+        <sys_created_on>2021-02-18 10:43:01</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>0ac400362ce5426e8163a8ec0e65b2a4</sys_id>
+        <sys_metadata>e516bd939416e0107f4439286ef2f270</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Enroll</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_parent display_value="What is the nature of your Inquiry?">3a4aa4939452e0107f4439286ef2f27d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_scope_delete display_value="">04c547d5e25243ec8023abe1716a5b91</sys_scope_delete>
+        <sys_update_name>question_choice_e516bd939416e0107f4439286ef2f270</sys_update_name>
+        <sys_update_version display_value="question_choice_e516bd939416e0107f4439286ef2f270">5756bd939416e0107f4439286ef2f2cb</sys_update_version>
+        <sys_updated_by>Abhinav</sys_updated_by>
+        <sys_updated_on>2021-02-18 10:43:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Announcement Recipients" max_length="40" name="x_cdltd_wsu_proble_announcement_recipients" type="collection">
+    <element label="Announcement Recipients" max_length="40" name="x_cdltd_wsu_proble_announcement_recipients" sizeclass="2" type="collection">
         <element label="Announcement" max_length="32" name="announcement" reference="x_cdltd_wsu_proble_announcement" type="reference"/>
         <element label="Student" max_length="32" name="student" reference="x_cdltd_wsu_proble_student" type="reference"/>
         <index name="index">
