@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="Open Inquiries By Type">646c20179452e0107f4439286ef2f254</report_id>
+        <report_id display_value="Active Inquiries By Type">646c20179452e0107f4439286ef2f254</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-18 05:16:12</sys_created_on>
