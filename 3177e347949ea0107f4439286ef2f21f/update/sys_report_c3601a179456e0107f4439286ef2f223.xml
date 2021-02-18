@@ -13,7 +13,7 @@
         <chart_border_radius>0</chart_border_radius>
         <chart_border_width>1</chart_border_width>
         <chart_height>450</chart_height>
-        <chart_size>small</chart_size>
+        <chart_size>medium</chart_size>
         <chart_subtitle/>
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
@@ -44,9 +44,9 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>inquiry_type</field>
+        <field>staff</field>
         <field_list>number,priority,state,short_description,sys_class_name,staff,student</field_list>
-        <filter table="x_cdltd_wsu_proble_inquiry">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        <filter table="x_cdltd_wsu_proble_inquiry">staffISNOTEMPTY<item endquery="false" field="staff" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -85,15 +85,15 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>chart_colors</set_color>
+        <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
-        <show_chart_data_label>false</show_chart_data_label>
+        <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
-        <show_chart_total>false</show_chart_total>
+        <show_chart_total>true</show_chart_total>
         <show_data_label_position_middle>false</show_data_label_position_middle>
         <show_empty>false</show_empty>
         <show_geographical_label>false</show_geographical_label>
-        <show_legend>true</show_legend>
+        <show_legend>false</show_legend>
         <show_legend_border>false</show_legend_border>
         <show_marker>false</show_marker>
         <show_zero>false</show_zero>
@@ -103,23 +103,23 @@
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-02-18 05:16:12</sys_created_on>
-        <sys_id>646c20179452e0107f4439286ef2f254</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Active Inquiries By Type</sys_name>
+        <sys_created_on>2021-02-18 12:33:17</sys_created_on>
+        <sys_id>c3601a179456e0107f4439286ef2f223</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Assigned Inquiries</sys_name>
         <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
         <sys_policy/>
         <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
-        <sys_update_name>sys_report_646c20179452e0107f4439286ef2f254</sys_update_name>
+        <sys_update_name>sys_report_c3601a179456e0107f4439286ef2f223</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-18 16:09:34</sys_updated_on>
+        <sys_updated_on>2021-02-18 14:23:25</sys_updated_on>
         <table>x_cdltd_wsu_proble_inquiry</table>
-        <title>Active Inquiries By Type</title>
+        <title>Assigned Inquiries</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
         <trend_field/>
-        <type>pie</type>
+        <type>donut</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>

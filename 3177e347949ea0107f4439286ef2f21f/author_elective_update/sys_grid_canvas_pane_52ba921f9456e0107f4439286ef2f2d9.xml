@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Inquiry Dashboard - New Tab">2aeba8d39452e0107f4439286ef2f2fb</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2021-02-18 13:18:17">9eba921f9456e0107f4439286ef2f2d7</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 13:18:17</sys_created_on>
+        <sys_id>52ba921f9456e0107f4439286ef2f2d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2aeba8d39452e0107f4439286ef2f2fb</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_52ba921f9456e0107f4439286ef2f2d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 13:18:17</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</application>
+        <file_path/>
+        <instance_id>533fe1b91b52a0d0d676c99f034bcbac</instance_id>
+        <instance_name>adf-feb-440-dev-018</instance_name>
+        <name>sys_grid_canvas_pane_52ba921f9456e0107f4439286ef2f2d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Inquiry Dashboard - New Tab">2aeba8d39452e0107f4439286ef2f2fb</grid_canvas><height>10</height><portal_widget display_value="Created 2021-02-18 13:18:17">9eba921f9456e0107f4439286ef2f2d7</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-18 13:18:17</sys_created_on><sys_id>52ba921f9456e0107f4439286ef2f2d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2aeba8d39452e0107f4439286ef2f2fb</sys_name><sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package><sys_policy/><sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope><sys_update_name>sys_grid_canvas_pane_52ba921f9456e0107f4439286ef2f2d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-18 13:18:17</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>1118659385</payload_hash>
+        <record_name>2aeba8d39452e0107f4439286ef2f2fb</record_name>
+        <reverted_from/>
+        <source>04e06dd394d2e0107f4439286ef2f202</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 13:18:17</sys_created_on>
+        <sys_id>daba921f9456e0107f4439286ef2f2da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b54a8a820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 13:18:17</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>16ba921fc256e010e3511d53abf36dda</update_guid>
+        <update_guid_history>16ba921fc256e010e3511d53abf36dda:1118659385</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 13:18:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>3e2e791ae26444faaa3165fe9e75ebe9</sys_id>
+        <sys_metadata>52ba921f9456e0107f4439286ef2f2d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2aeba8d39452e0107f4439286ef2f2fb</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_scope_delete display_value="">04c547d5e25243ec8023abe1716a5b91</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_52ba921f9456e0107f4439286ef2f2d9</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_52ba921f9456e0107f4439286ef2f2d9">daba921f9456e0107f4439286ef2f2da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 13:18:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
