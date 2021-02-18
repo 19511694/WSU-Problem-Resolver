@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Inquiry" max_length="40" name="x_cdltd_wsu_proble_inquiry" type="collection">
+        <element label="Inquiry Type" mandatory="true" max_length="10" name="inquiry_type" type="string"/>
+        <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="staff" reference="x_cdltd_wsu_proble_staff" type="reference"/>
+        <element attributes="encode_utf8=false" label="Student" max_length="32" name="student" reference="x_cdltd_wsu_proble_student" type="reference"/>
+    </element>
+</database>

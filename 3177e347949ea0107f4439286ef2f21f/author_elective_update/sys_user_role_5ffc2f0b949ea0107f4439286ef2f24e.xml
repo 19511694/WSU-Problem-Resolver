@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_cdltd_wsu_proble.incident_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>incident_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 00:39:14</sys_created_on>
+        <sys_id>5ffc2f0b949ea0107f4439286ef2f24e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_wsu_proble.incident_user</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_update_name>sys_user_role_5ffc2f0b949ea0107f4439286ef2f24e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 00:39:14</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</application>
+        <file_path/>
+        <instance_id>533fe1b91b52a0d0d676c99f034bcbac</instance_id>
+        <instance_name>adf-feb-440-dev-018</instance_name>
+        <name>sys_user_role_5ffc2f0b949ea0107f4439286ef2f24e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_cdltd_wsu_proble.incident_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>incident_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-18 00:39:14</sys_created_on><sys_id>5ffc2f0b949ea0107f4439286ef2f24e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_wsu_proble.incident_user</sys_name><sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package><sys_policy/><sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope><sys_update_name>sys_user_role_5ffc2f0b949ea0107f4439286ef2f24e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-18 00:39:14</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1430989914</payload_hash>
+        <record_name>x_cdltd_wsu_proble.incident_user</record_name>
+        <reverted_from/>
+        <source>b177e347949ea0107f4439286ef2f221</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 00:39:14</sys_created_on>
+        <sys_id>9ffc2f0b949ea0107f4439286ef2f253</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b2939c860000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 00:39:14</sys_updated_on>
+        <type>Role</type>
+        <update_guid>d7fc2f0b979ea010252af0a43b057e53</update_guid>
+        <update_guid_history>d7fc2f0b979ea010252af0a43b057e53:1430989914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_wsu_proble.incident_user">2a53bf4f949ea0107f4439286ef2f209</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 01:07:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>083f73bdd6f446b282e7d84daa19c779</sys_id>
+        <sys_metadata>5ffc2f0b949ea0107f4439286ef2f24e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_wsu_proble.incident_user</sys_name>
+        <sys_package display_value="WSU Problem Resolver" source="x_cdltd_wsu_proble">3177e347949ea0107f4439286ef2f21f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WSU Problem Resolver">3177e347949ea0107f4439286ef2f21f</sys_scope>
+        <sys_scope_delete display_value="">04c547d5e25243ec8023abe1716a5b91</sys_scope_delete>
+        <sys_update_name>sys_user_role_5ffc2f0b949ea0107f4439286ef2f24e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_5ffc2f0b949ea0107f4439286ef2f24e">9ffc2f0b949ea0107f4439286ef2f253</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 01:07:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

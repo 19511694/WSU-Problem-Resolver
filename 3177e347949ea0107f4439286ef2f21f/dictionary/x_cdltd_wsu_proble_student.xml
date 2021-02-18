@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="Student" max_length="40" name="x_cdltd_wsu_proble_student" type="collection">
+        <element label="Course" mandatory="true" max_length="50" name="course" type="string"/>
+        <element label="Student ID" mandatory="true" max_length="8" name="student_id" type="string"/>
+    </element>
+</database>

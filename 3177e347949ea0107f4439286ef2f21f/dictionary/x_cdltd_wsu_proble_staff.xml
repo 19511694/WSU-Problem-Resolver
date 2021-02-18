@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="Staff" max_length="40" name="x_cdltd_wsu_proble_staff" type="collection">
+        <element label="Staff ID" mandatory="true" max_length="8" name="staff_id" type="string"/>
+    </element>
+</database>
